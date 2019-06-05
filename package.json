@@ -1,6 +1,6 @@
 {
   "name": "sequelize-auto-zy",
-  "version": "0.4.33",
+  "version": "0.4.34",
   "description": "Automatically generate bare sequelize models from your database.",
   "main": "index",
   "keywords": [
